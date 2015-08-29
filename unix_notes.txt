@@ -1,3 +1,8 @@
+# Hidden files have names that begin with a dot (.)
+
+# The git directory stores all information
+# about a repository
+
 # Print out history to this point
 history | less
 history
